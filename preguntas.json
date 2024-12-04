@@ -1,0 +1,137 @@
+[  
+    {  
+        "pregunta": "¿Cuál es la capital de Francia?",  
+        "opciones": ["París", "Madrid", "Berlín", "Lisboa"],  
+        "respuesta": "París",  
+        "dificultad": "Fácil",
+        "Tema" : "Cultura General"
+    },  
+    {  
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",  
+        "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Pablo Neruda", "Jorge Luis Borges"],  
+        "respuesta": "Gabriel García Márquez",  
+        "dificultad": "Intermedia",
+        "Tema" : "Cultura General"  
+    },  
+    {  
+        "pregunta": "¿En qué provincia nació Lionel Messi?",  
+        "opciones": ["Mendoza", "Buenos Aires", "La Rioja", "Santa Fe"],  
+        "respuesta": "Santa Fe",  
+        "dificultad": "Fácil",
+        "Tema" : "Cultura General"
+    },  
+    {  
+        "pregunta": "¿Qué océano se encuentra al este de África?",  
+        "opciones": ["Océano Atlántico", "Océano Índico", "Océano Pacífico", "Océano Ártico"],  
+        "respuesta": "Océano Índico",  
+        "dificultad": "Intermedia",
+        "Tema" : "Cultura General"
+    },  
+    {  
+        "pregunta": "¿Cuál es el elemento químico con el símbolo 'O'?",  
+        "opciones": ["Osmio", "Oro", "Oxígeno", "Orea"],  
+        "respuesta": "Oxígeno",  
+        "dificultad": "Fácil",
+        "Tema" : "Ciencia"  
+    },  
+    {  
+        "pregunta": "¿Qué planeta es conocido como el 'Planeta Rojo'?",  
+        "opciones": ["Marte", "Júpiter", "Mercurio", "Venus"],  
+        "respuesta": "Marte",  
+        "dificultad": "Fácil",
+        "Tema" : "Ciencia" 
+    },  
+    {  
+        "pregunta": "¿Cuál es la fórmula química del agua?",  
+        "opciones": ["H2O", "CO2", "NaCl", "H2SO4"],  
+        "respuesta": "H2O",  
+        "dificultad": "Fácil",
+        "Tema" : "Ciencia"  
+    },  
+    {  
+        "pregunta": "¿Cuál es la unidad básica de la vida?",  
+        "opciones": ["Célula", "Tejido", "Órgano", "Sistema"],  
+        "respuesta": "Célula",  
+        "dificultad": "Intermedia",
+        "Tema" : "Ciencia"  
+    },
+
+    {  
+        "pregunta": "¿Qué gas es responsable del efecto invernadero?",  
+        "opciones": ["Oxígeno", "Dióxido de carbono", "Helio", "Nitrógeno"],  
+        "respuesta": "Dióxido de carbono",  
+        "dificultad": "Intermedia",
+        "Tema" : "Ciencia"  
+    },  
+    {  
+        "pregunta": "¿Que enfermedad es causada por un virus?",  
+        "opciones": ["Diabetes", "Cáncer", "Sarampión", "Asma"],  
+        "respuesta": "Sarampión",  
+        "dificultad": "Difícil",
+        "Tema" : "Ciencia"  
+    },  
+
+    {  
+        "pregunta": "¿En qué deporte se utiliza un balón ovalado?",  
+        "opciones": ["Fútbol", "Rugby", "Baloncesto", "Críquet"],  
+        "respuesta": "Rugby",  
+        "dificultad": "Fácil",
+        "Tema" : "Deportes"  
+    },  
+    {  
+        "pregunta": "¿Quién tiene el récord de más goles en la historia del fútbol?",  
+        "opciones": ["Pelé", "Lionel Messi", "Cristiano Ronaldo", "Diego Maradona"],  
+        "respuesta": "Cristiano Ronaldo",  
+        "dificultad": "Intermedia",
+        "Tema" : "Deportes"  
+    },  
+    {  
+        "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",  
+        "opciones": ["5", "6", "7", "8"],  
+        "respuesta": "5",  
+        "dificultad": "Fácil",
+        "Tema" : "Deportes"  
+    },  
+    {  
+        "pregunta": "¿Qué país ganó la Copa del Mundo de Fútbol en 2014?",  
+        "opciones": ["Argentina", "Alemania", "Brasil", "Italia"],  
+        "respuesta": "Alemania",  
+        "dificultad": "Intermedia",
+        "Tema" : "Deportes"  
+    },  
+    {  
+        "pregunta": "¿Que evento deportivo es más importante en la natación?",  
+        "opciones": ["Juegos Olímpicos", "Copa Mundial de Natación", "Campeonatos Nacionales", "Grand Prix"],  
+        "respuesta": "Juegos Olímpicos",  
+        "dificultad": "Difícil",
+        "Tema" : "Deportes"  
+    },  
+    {  
+        "pregunta": "¿Quién es director de la película 'Titanic'?",  
+        "opciones": ["Steven Spielberg", "James Cameron", "Martin Scorsese", "Quentin Tarantino"],  
+        "respuesta": "James Cameron",  
+        "dificultad": "Intermedia",
+        "Tema" : "Entretenimiento"  
+    },  
+    {  
+        "pregunta": "¿Que serie tiene personajes amarillos?",  
+        "opciones": ["Los simpsons", "Futurama", "Rick and Morty", "Friends"],  
+        "respuesta": "Los simpsons",  
+        "dificultad": "Fácil",
+        "Tema" : "Entretenimiento"  
+    },  
+    {  
+        "pregunta": "¿Cuál fue el primer largometraje animado de Disney?",  
+        "opciones": ["Blancanieves y los siete enanitos", "El Rey León", "La Bella y la Bestia", "Pinocho"],  
+        "respuesta": "Blancanieves y los siete enanitos",  
+        "dificultad": "Intermedia",
+        "Tema" : "Entretenimiento"  
+    },  
+    {  
+        "pregunta": "¿Quién ganó el Oscar a Mejor Actor en 2020?",  
+        "opciones": ["Joaquin Phoenix", "Brad Pitt", "Leonardo DiCaprio", "Matthew McConaughey"],  
+        "respuesta": "Joaquin Phoenix",  
+        "dificultad": "Difícil",
+        "Tema" : "Entretenimiento"  
+    }
+    ]
